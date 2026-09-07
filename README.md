@@ -1,5 +1,7 @@
 # Recommendation Engine API (Integration + API + Evaluation)
 
+![Tests](https://github.com/shubhadipm49-pixel/recommendation-api/actions/workflows/tests.yml/badge.svg)
+
 FastAPI service that exposes the GNN recommendation pipeline (Person 1-3's work)
 through a REST API, with Redis caching, Pytest tests, and MLflow tracking.
 
